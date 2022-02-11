@@ -1,0 +1,37 @@
+{
+  "expo": {
+    "name": "life_charger",
+    "slug": "life_charger",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "web": {
+      "config": {
+        "firebase": {
+          "apiKey": "AIzaSyBqvyAHhSmFK-ijqDgtnLYxwE2zLOsWTuU",
+          "authDomain": "life-charger-a1f5e.firebaseapp.com",
+          "databaseURL": "https://life-charger-a1f5e.firebaseio.com",
+          "projectId": "life-charger-a1f5e",
+          "storageBucket": "life-charger-a1f5e.appspot.com",
+          "messagingSenderId": "1008765087917",
+          "appId": "1:1008765087917:web:7f5f02797f3328f059d624"
+        }
+      }
+    },
+    "description": ""
+  }
+}
